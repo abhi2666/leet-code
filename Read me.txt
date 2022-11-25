@@ -1,0 +1,2 @@
+All the programs here are not complete only the method is written here. If you want to use the program then use 
+the concepts of OOP in C++ and copy the code into your IDE.
